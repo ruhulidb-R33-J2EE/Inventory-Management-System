@@ -63,4 +63,4 @@
 
 </hr>
 <h3>Pending Order</h3>
-<img src="Image/ 	6_pending_order.PNG">
+<img src="Image/6_pending_order.PNG">
