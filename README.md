@@ -18,6 +18,7 @@
 <h3>Development Tools &Technologies</h3>
 <ul>
   <li>Java Swing</li>
+  <li>JDBC</li>
 </ul>
 
 <hr/>
